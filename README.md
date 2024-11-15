@@ -1,4 +1,4 @@
-## Sequence Detector using Moore and Mealy State Machines with Testbench Verification
+# 6. Sequence Detector using Moore and Mealy State Machines with Testbench Verification
 
 ## Aim
 
